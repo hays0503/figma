@@ -1,0 +1,235 @@
+/* Info */
+
+position: relative;
+width: 1440px;
+height: 629px;
+
+background: #FFFFFF;
+
+
+
+
+
+
+/* UI/UX Designer & Developer */
+
+position: absolute;
+width: 390px;
+height: 36px;
+left: 414px;
+top: 302px;
+
+font-family: 'Larsseit';
+font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+
+color: #4F4F4F;
+
+
+
+/* twitter.com/howbadeh */
+
+position: absolute;
+width: 237px;
+height: 27px;
+left: 414px;
+top: 405px;
+
+font-family: 'Larsseit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
+letter-spacing: -0.006em;
+text-decoration-line: underline;
+
+color: #1ABCFE;
+
+
+
+/* If you like what I am doing , you can support me by following me on twitter */
+
+position: absolute;
+width: 621px;
+height: 23px;
+left: 414px;
+top: 555px;
+
+font-family: 'Larsseit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: -0.006em;
+
+color: #696969;
+
+
+
+/* dribbble.com/itskshitij */
+
+position: absolute;
+width: 229px;
+height: 27px;
+left: 721px;
+top: 405px;
+
+font-family: 'Larsseit';
+font-size: 24px;
+line-height: 25px;
+letter-spacing: -0.006em;
+
+color: #1ABCFE;
+
+
+
+/* kshitij.ws */
+
+position: absolute;
+width: 92px;
+height: 27px;
+left: 1020px;
+top: 405px;
+
+font-family: 'Larsseit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+/* identical to box height */
+letter-spacing: -0.006em;
+text-decoration-line: underline;
+
+color: #1ABCFE;
+
+
+
+/* Made by */
+
+position: absolute;
+width: 60px;
+height: 18px;
+left: 233px;
+top: 217px;
+
+font-family: 'Larsseit';
+font-size: 16px;
+line-height: 17px;
+letter-spacing: -0.006em;
+
+color: #A259FF;
+
+
+
+/* logo-new */
+
+position: absolute;
+width: 126.4px;
+height: 40px;
+left: 50px;
+top: 39px;
+
+
+
+/* logo */
+
+position: absolute;
+width: 40.31px;
+height: 40px;
+left: 50px;
+top: 39px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 40.31px;
+height: 40px;
+left: 50px;
+top: 39px;
+
+background: #1ABCFE;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 40.31px;
+height: 40px;
+left: 50px;
+top: 39px;
+
+background: #A259FF;
+
+
+/* Polygon */
+
+position: absolute;
+width: 12.72px;
+height: 15.41px;
+left: 59.32px;
+top: 60.73px;
+
+background: #FFFFFF;
+transform: matrix(0.5, -0.86, 0.87, 0.5, 0, 0);
+
+
+/* Rectangle */
+
+position: absolute;
+width: 17.99px;
+height: 44.83px;
+left: 91.18px;
+top: 44.19px;
+
+background: #1ABCFE;
+transform: matrix(0.74, 0.67, -0.68, 0.74, 0, 0);
+
+
+/* Rectangle */
+
+position: absolute;
+width: 17.99px;
+height: 57.03px;
+left: 49.37px;
+top: 44.37px;
+
+background: #6D00FF;
+transform: matrix(-0.74, 0.67, 0.68, 0.74, 0, 0);
+
+
+/* Intersect */
+
+position: absolute;
+width: 21.6px;
+height: 22.27px;
+left: 60.82px;
+top: 66.99px;
+
+background: #0ACF83;
+
+
+/* FIGMA */
+
+position: absolute;
+width: 74.29px;
+height: 16.21px;
+left: 100.65px;
+top: 41.07px;
+
+background: #547091;
+
+
+/* FREEBIES */
+
+position: absolute;
+width: 75.78px;
+height: 14.41px;
+left: 100.62px;
+top: 63.3px;
+
+background: #547091;
