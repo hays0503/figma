@@ -81,36 +81,4 @@ select {
     scroll-behavior: auto !important;
   }
 }
-
-.logo {
-  position: absolute;
-  width: 126.4px;
-  height: 40px;
-  left: 50px;
-  top: 39px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-}
-
-.logo .imgLogo {
-  width: 40px;
-  height: 40px;
-  background-image: url(../img/svg/logo.svg);
-}
-
-.logo p {
-  -ms-flex-line-pack: center;
-      align-content: center;
-  letter-spacing: 1px;
-  font-family: monospace;
-  font-size: large;
-  color: #547091;
-}
-/*# sourceMappingURL=index.css.map */
+/*# sourceMappingURL=zeroStyle.css.map */
