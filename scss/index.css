@@ -1,0 +1,27 @@
+.logo {
+  position: absolute;
+  width: 126.4px;
+  height: 40px;
+  left: 50px;
+  top: 39px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.logo .imgLogo {
+  width: 40px;
+  height: 40px;
+  background-image: url(../img/svg/logo.svg);
+}
+
+.logo p {
+  letter-spacing: 2px;
+  font-family: monospace;
+  color: #547091;
+}
+/*# sourceMappingURL=index.css.map */
