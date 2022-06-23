@@ -1,4 +1,4 @@
-@import 'zeroStyle.scss';
+//@import 'zeroStyle.scss';
 
 .logo{
     position: absolute;
@@ -6,19 +6,16 @@
     height: 40px;
     left: 50px;
     top: 39px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    .imgLogo{
-        width: 40px;
+}
+
+.logo1{
+    @extend .logo;
+    left: 50px*4;
+    top: 39px;
+}
+
+.imgLogo{
+        width: 126px;
         height: 40px;
         background-image: url(../img/svg/logo.svg);
     }
-    p{
-        align-content: center;
-        letter-spacing: 1px;
-        font-family: monospace;
-        font-size: large;
-        color: #547091;
-    }
-}
